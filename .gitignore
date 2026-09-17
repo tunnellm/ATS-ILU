@@ -1,0 +1,10 @@
+/generated/
+/.venv/
+/matrices/
+*.o
+__pycache__/
+/c_ilu/bench_ilu
+/c_ilu/dump_ilu_factors
+/c_ilu/gmres_from_factors
+/c_ilu/cg_from_factors
+/c_ilu/test_symbolic

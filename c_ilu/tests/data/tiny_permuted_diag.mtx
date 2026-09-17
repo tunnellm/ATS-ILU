@@ -1,0 +1,7 @@
+%%MatrixMarket matrix coordinate real general
+% Nonsymmetric matrix whose full matching is entirely off the natural diagonal.
+4 4 4
+1 2 10.0
+2 3 9.0
+3 4 8.0
+4 1 7.0

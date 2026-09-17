@@ -1,0 +1,33 @@
+matrix,id,rows,nnz,nnz_per_row,psym,nsym,kind,preprocess,mm_url
+GHS_psdef/bmwcra_1,1254,148770,10641602,71.5305639577872,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/GHS_psdef/bmwcra_1.tar.gz
+Boeing/pwtk,369,217918,11524432,52.884259216769614,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Boeing/pwtk.tar.gz
+BenElechi/BenElechi1,1850,245874,13150496,53.48469541309777,1.0,1.0,2D/3D problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/BenElechi/BenElechi1.tar.gz
+INPRO/msdoor,1644,415863,19173163,46.10451759353441,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/INPRO/msdoor.tar.gz
+Schenk_AFE/af_0_k101,1580,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_0_k101.tar.gz
+Schenk_AFE/af_1_k101,1581,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_1_k101.tar.gz
+Schenk_AFE/af_2_k101,1582,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_2_k101.tar.gz
+Schenk_AFE/af_3_k101,1583,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_3_k101.tar.gz
+Schenk_AFE/af_4_k101,1584,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_4_k101.tar.gz
+Schenk_AFE/af_5_k101,1585,503625,17550675,34.848696947133284,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_5_k101.tar.gz
+GHS_psdef/inline_1,1267,503712,36816170,73.0897219045804,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/GHS_psdef/inline_1.tar.gz
+Schenk_AFE/af_shell3,942,504855,17562051,34.78632676709154,1.0,1.0,subsequent structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_shell3.tar.gz
+Schenk_AFE/af_shell4,943,504855,17562051,34.78632676709154,1.0,1.0,subsequent structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_shell4.tar.gz
+Schenk_AFE/af_shell7,946,504855,17579155,34.82020580166582,1.0,1.0,subsequent structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_shell7.tar.gz
+Schenk_AFE/af_shell8,947,504855,17579155,34.82020580166582,1.0,1.0,subsequent structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schenk_AFE/af_shell8.tar.gz
+Mazaheri/bundle_adj,2664,513351,20207907,39.36469783832115,1.0,1.0,computer vision problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Mazaheri/bundle_adj.tar.gz
+Janna/Fault_639,2543,638802,27245944,42.65162601244204,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Fault_639.tar.gz
+Janna/PFlow_742,2661,742793,37138461,49.99839928486133,1.0,1.0,2D/3D problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/PFlow_742.tar.gz
+Oberwolfach/boneS10,1455,914898,40878708,44.68116445767725,1.0,1.0,model reduction problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Oberwolfach/boneS10.tar.gz
+Janna/Emilia_923,2542,923136,40373538,43.73520044717138,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Emilia_923.tar.gz
+GHS_psdef/audikw_1,1252,943695,77651847,82.28489819274236,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/GHS_psdef/audikw_1.tar.gz
+GHS_psdef/ldoor,1268,952203,42493817,44.6268463762454,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/GHS_psdef/ldoor.tar.gz
+Oberwolfach/bone010,1453,986703,47851783,48.496642860110896,1.0,1.0,model reduction problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Oberwolfach/bone010.tar.gz
+Schmid/thermal2,1403,1228045,8580313,6.986969532875424,1.0,1.0,thermal problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Schmid/thermal2.tar.gz
+Janna/Serena,2541,1391349,64131971,46.093374847001,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Serena.tar.gz
+Janna/Geo_1438,2545,1437960,60236322,41.89012350830343,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Geo_1438.tar.gz
+Janna/StocF-1465,2547,1465137,21005389,14.336808776244133,1.0,1.0,computational fluid dynamics problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/StocF-1465.tar.gz
+Janna/Hook_1498,2546,1498023,59374451,39.635206535547184,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Hook_1498.tar.gz
+Janna/Flan_1565,2544,1564794,114165372,72.9587230012385,1.0,1.0,structural problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Flan_1565.tar.gz
+AMD/G3_circuit,1421,1585478,7660826,4.831871523918969,1.0,1.0,circuit simulation problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/AMD/G3_circuit.tar.gz
+Janna/Bump_2911,2659,2911419,127729899,43.87204280799157,1.0,1.0,2D/3D problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Bump_2911.tar.gz
+Janna/Queen_4147,2660,4147110,316548962,76.33001343103993,1.0,1.0,2D/3D problem,diag-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Queen_4147.tar.gz

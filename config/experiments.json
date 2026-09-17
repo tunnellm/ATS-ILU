@@ -1,0 +1,12 @@
+{
+  "selection": {"min_rows": 100000, "large_rows": 1000000, "large_nnz": 10000000, "size_rule": "min_rows AND (large_rows OR large_nnz)", "numerical_symmetry_max_exclusive": 0.99, "sequential_numeric_cutoff_seconds": 1800},
+  "fill_levels": [0, 1, 2, 3],
+  "symbolic": "levelset",
+  "ats_scale": "folded",
+  "unsymmetric_preprocess": "mc64-rcm",
+  "spd_preprocess": "diag-rcm",
+  "timing": {"threads": [1, 2, 4, 8, 16, 32, 64, 128], "sweeps": 5, "numeric_repeats": 3, "sequential_ilu_repeats": 3, "sequential_ic_repeats": 1, "new_one_thread_async_sweeps": 1, "historical_ilu_one_thread_sweeps": 5},
+  "quality": {"threads": [2, 4, 8, 16, 32, 64, 128], "ilu_sweeps": [1, 2, 3, 4, 5], "ic_sweeps": [1, 2, 3], "async_repeats": 3, "sync_repeats": 1, "sync_threads": 128, "sequential_repeats": 1, "rhs_count": 1, "seed": 1337, "gmres_restart": 50, "full_reorthogonalization": true, "max_iterations": 2000, "true_relative_residual_tolerance": 1e-8},
+  "reported_sweeps": [1, 2, 3],
+  "expected": {"ilu_states": 17680, "ic_states": 8890, "ilu_eligible_pairs": 80, "ic_eligible_pairs": 70, "ilu_quality_pairs": 67, "ic_quality_pairs": 70, "ilu_complete_timing_pairs": 52, "ic_complete_timing_pairs": 43}
+}

@@ -1,0 +1,10 @@
+%%MatrixMarket matrix coordinate pattern symmetric
+% Pattern input uses value 1.0 for every stored entry before symmetry expansion.
+4 4 7
+1 1
+2 1
+2 2
+3 2
+3 3
+4 3
+4 4

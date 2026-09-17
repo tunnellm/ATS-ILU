@@ -1,0 +1,27 @@
+matrix,id,rows,nnz,nnz_per_row,psym,nsym,kind,preprocess,mm_url
+Janna/ML_Laplace,2648,377002,27582698,73.16326703837115,1.0,7.351401706466177e-08,structural problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/ML_Laplace.tar.gz
+Fluorem/RM07R,2337,381689,37464962,98.15572887874683,0.9261667922354104,4.260681089287885e-06,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Fluorem/RM07R.tar.gz
+Janna/CoupCons3D,2647,416800,17277420,41.45254318618042,1.0,0.0088816425493249,structural problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/CoupCons3D.tar.gz
+VLSI/vas_stokes_1M,2842,1090664,34767207,31.87710147213074,0.420954312323566,0.1713153870930279,semiconductor process problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/vas_stokes_1M.tar.gz
+VLSI/dgreen,2841,1200611,26606169,22.160524099812513,1.0,0.1732208361650628,semiconductor device problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/dgreen.tar.gz
+Bourchtein/atmosmodd,2265,1270432,8814880,6.938490214352283,1.0,0.6690207156308852,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Bourchtein/atmosmodd.tar.gz
+Bourchtein/atmosmodj,2266,1270432,8814880,6.938490214352283,1.0,0.6690207156308852,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Bourchtein/atmosmodj.tar.gz
+Hamrle/Hamrle3,1201,1447360,5514242,3.809862093743091,2.538882993038383e-06,0.0,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Hamrle/Hamrle3.tar.gz
+VLSI/nv2,2835,1453908,37475646,25.775802870608043,1.0,0.1982255825635065,semiconductor device problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/nv2.tar.gz
+Bourchtein/atmosmodl,2267,1489752,10319760,6.927166400850611,1.0,0.6714503542918647,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Bourchtein/atmosmodl.tar.gz
+Bourchtein/atmosmodm,2268,1489752,10319760,6.927166400850611,1.0,0.6714503542918647,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Bourchtein/atmosmodm.tar.gz
+Janna/ML_Geer,2650,1504002,110686677,73.59476716121388,1.0,2.381330188145693e-07,structural problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/ML_Geer.tar.gz
+Janna/Transport,2649,1602111,23487281,14.660208312657488,1.0,0.0,structural problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Janna/Transport.tar.gz
+VLSI/ss,2847,1652680,34753577,21.02861836532178,0.6780372145201986,0.2889301761218133,semiconductor process problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/ss.tar.gz
+Fluorem/HV15R,2384,2017169,283073458,140.33204852939937,0.8446615474952066,0.0007082780488857,computational fluid dynamics problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Fluorem/HV15R.tar.gz
+VLSI/vas_stokes_2M,2843,2146677,65129037,30.339467465296362,0.464592974921867,0.2072952172640085,semiconductor process problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/vas_stokes_2M.tar.gz
+Freescale/memchip,2274,2707524,13343948,4.928468962786664,0.905801300422394,0.4015860962358702,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/memchip.tar.gz
+Freescale/FullChip,2380,2987012,26621983,8.912579862417694,0.9999996192108144,0.0056148651341618,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/FullChip.tar.gz
+Freescale/Freescale2,2662,2999349,14313235,4.772113882045737,0.9853083953765488,0.5600838032920651,circuit simulation matrix,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/Freescale2.tar.gz
+Freescale/Freescale1,2216,3428755,17052626,4.973416298335693,0.9061379876258038,0.3945743467477048,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/Freescale1.tar.gz
+Freescale/circuit5M_dc,2277,3523317,14865409,4.219151725490496,0.9072118240231114,0.7150571517141635,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/circuit5M_dc.tar.gz
+VLSI/vas_stokes_4M,2844,4382246,131577616,30.025155137342814,0.4636465777016884,0.1138555436412505,semiconductor process problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/vas_stokes_4M.tar.gz
+Rajat/rajat31,1398,4690002,20316253,4.331821820118627,1.0,0.4000960614178773,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Rajat/rajat31.tar.gz
+vanHeukelum/cage15,916,5154859,99199551,19.24389221897243,1.0,0.2131193964673732,directed weighted graph,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/vanHeukelum/cage15.tar.gz
+Freescale/circuit5M,2276,5558326,59524291,10.70903199992228,0.99999985176358,0.4198865531852634,circuit simulation problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/Freescale/circuit5M.tar.gz
+VLSI/stokes,2845,11449533,349321980,30.509714238999965,0.4729070672045655,0.1293167418294988,semiconductor process problem,mc64-rcm,https://suitesparse-collection-website.herokuapp.com/MM/VLSI/stokes.tar.gz

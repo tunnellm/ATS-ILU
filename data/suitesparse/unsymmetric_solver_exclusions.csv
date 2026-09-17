@@ -1,0 +1,25 @@
+matrix,k,reason,evidence,source_count
+Fluorem/RM07R,0,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,2
+Fluorem/RM07R,1,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Fluorem/RM07R,2,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Fluorem/RM07R,3,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Hamrle/Hamrle3,2,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Hamrle/Hamrle3,3,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Fluorem/HV15R,0,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Fluorem/HV15R,1,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Fluorem/HV15R,2,no_valid_sequential,no finite sequential_ilu result was observed,0
+Fluorem/HV15R,3,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/FullChip,0,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Freescale/FullChip,1,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/FullChip,2,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/FullChip,3,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/Freescale2,0,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Freescale/Freescale2,1,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+Freescale/Freescale2,2,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,2
+Freescale/Freescale2,3,nonfinite_sequential,all observed sequential_ilu checksums or timings were nonfinite,1
+vanHeukelum/cage15,2,sequential_over_runtime_cutoff,minimum finite sequential factor time 2169.086 seconds; cutoff 1800 seconds,1
+vanHeukelum/cage15,3,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/circuit5M,1,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/circuit5M,2,no_valid_sequential,no finite sequential_ilu result was observed,0
+Freescale/circuit5M,3,no_valid_sequential,no finite sequential_ilu result was observed,0
+VLSI/stokes,3,no_valid_sequential,no finite sequential_ilu result was observed,0

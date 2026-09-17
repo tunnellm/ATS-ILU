@@ -1,5 +1,7 @@
 # ATS-ILU: Code and Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22803941.svg)](https://doi.org/10.5281/zenodo.22803941)
+
 **A Framework for Parallel Incomplete LU Factorizations Based on Pattern-Norm
 Minimization**
 

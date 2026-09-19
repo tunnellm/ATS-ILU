@@ -87,8 +87,10 @@ factors and replay GMRES/CG. The test uses small bundled matrices.
 
 ### MC64
 
-MC64 is **not bundled**. To reproduce the unsymmetric preprocessing, supply a
-compatible external 32-bit `mc64ad_dist` implementation:
+MC64 is **not bundled**. It is available from the
+[HSL MC64 catalogue page](https://www.hsl.rl.ac.uk/catalogue/hsl_mc64.html).
+To reproduce the unsymmetric preprocessing, supply a compatible external
+32-bit `mc64ad_dist` implementation:
 
 ```sh
 make -C c_ilu clean

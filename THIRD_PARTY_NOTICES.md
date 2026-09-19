@@ -1,7 +1,8 @@
 # External Dependencies and Matrix Data
 
 MC64 source and binaries are not distributed. Obtain a compatible implementation
-separately under its applicable terms; this repository grants no MC64 license.
+from the [HSL MC64 catalogue page](https://www.hsl.rl.ac.uk/catalogue/hsl_mc64.html)
+under its applicable terms; this repository grants no MC64 license.
 `c_ilu/include/superlu_ddefs.h` is an interface shim, not an implementation.
 
 SuiteSparse manifests identify matrices contributed to the SuiteSparse Matrix
